@@ -1,7 +1,7 @@
 # Link to the project: https://codedebug.streamlit.app/
 
 #  Code Debugger
-"Utilizing advanced natural language processing techniques, our sentiment analysis model accurately gauges the emotional tone of textual content, enabling businesses to gain invaluable insights into customer sentiment, opinions, and trends in real-time."
+"Submit your python code for review and recieve feedback on potential bugs along with suggestions for fixes."
 
 ## Features
 - Open-Ai
