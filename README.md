@@ -10,7 +10,7 @@
 
 ## 👀 Screenshots
 
-![image]()
+![image](https://raw.githubusercontent.com/Harsh1629/Assets/main/Debug.png)
 
 
 ## ✍ Author
